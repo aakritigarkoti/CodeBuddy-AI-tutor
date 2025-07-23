@@ -144,8 +144,7 @@ Edit
 streamlit run app.py
 
 📸 Screenshots
-
-![Screenshot](assets/pic1.png)
+SEE UPLOADED IMAGES
 
 🙏 Acknowledgments
 Developed as part of DT Fellowship Simulation
