@@ -144,7 +144,8 @@ Edit
 streamlit run app.py
 
 📸 Screenshots
-(Add screenshots showing: a chat, diagram, image, and export button. This boosts judge appeal.)
+
+![Screenshot](assets/pic1.png)
 
 🙏 Acknowledgments
 Developed as part of DT Fellowship Simulation
